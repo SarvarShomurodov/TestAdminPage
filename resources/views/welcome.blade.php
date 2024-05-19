@@ -1,4 +1,9 @@
 @include('layouts.adminapp')
     <br>
-<h1 style="text-align: center;">InWeb CRUD Project.I didn't pay much attention to the design part</h1>
+    <div class="container">
+        <div style="position: fixed;top: 50%;left: 39%;font-family:verdana;">
+            <h1>InWeb CRUD Project</h1>
+        </div>
+    </div>
+
 
